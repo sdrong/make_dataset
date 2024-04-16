@@ -1,0 +1,1722 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+Intel Arc A310,"Graphics Processor: DG2-128
+Cores: 768
+TMUs: 32
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: Oct 12th, 2022
+Generation: Alchemist (Arc 3)
+Predecessor: Xe Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1750 MHz
+Boost Clock: 1750 MHz
+Memory Clock: 1937 MHz 15.5 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 124.0 GB/s
+
+Render Config:
+Shading Units: 768
+TMUs: 32
+ROPs: 16
+Execution Units: 96
+Tensor Cores: 96
+RT Cores: 6
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 28.00 GPixel/s
+Texture Rate: 56.00 GTexel/s
+FP16 (half): 5.376 TFLOPS (2:1)
+FP32 (float): 2.688 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: Single-slot
+TDP: 30 W
+Suggested PSU: 200 W
+Outputs: 4x mini-DisplayPort 2.0
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+","기반 제품명:GIGABYTE Arc A310 WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2000 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 50 W
+기반 제품명:Matrox LUMA A310 -해당 제품의 바뀐 사항 GPU Clock: 1750 MHz, Boost Clock: 1750 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 
+기반 제품명:Matrox LUMA A310F -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2000 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 50 W
+기반 제품명:MSI Arc A310 Low Profile 2X -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2000 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 172 mm/6.8 inches, 1x HDMI 1x DisplayPort, 50 W
+기반 제품명:SPARKLE Arc A310 ECO -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2000 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 156 mm/6.1 inches, 1x HDMI 2x mini-DisplayPort, 50 W
+기반 제품명:SPARKLE Arc A310 ELF -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2000 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 153 mm/6 inches, Dual-slot, 1x HDMI 3x DisplayPort, 75 W
+"
+Intel Arc A350,"Graphics Processor: DG2-128
+Cores: 768
+TMUs: 48
+ROPs: 24
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: 2022
+Generation: Alchemist (Arc 3)
+Predecessor: Xe Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2000 MHz
+Boost Clock: 2000 MHz
+Memory Clock: 1937 MHz 15.5 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 124.0 GB/s
+
+Render Config:
+Shading Units: 768
+TMUs: 48
+ROPs: 24
+Execution Units: 96
+Tensor Cores: 96
+RT Cores: 6
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 48.00 GPixel/s
+Texture Rate: 96.00 GTexel/s
+FP16 (half): 6.144 TFLOPS (2:1)
+FP32 (float): 3.072 TFLOPS
+FP64 (double): 768.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: Single-slot
+TDP: 25 W
+Suggested PSU: 200 W
+Outputs: No outputs
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc A350M,"Graphics Processor: DG2-128
+Cores: 768
+TMUs: 48
+ROPs: 24
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Alchemist (Arc 3 Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 1150 MHz
+Boost Clock: 2200 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 768
+TMUs: 48
+ROPs: 24
+Execution Units: 96
+Tensor Cores: 96
+RT Cores: 6
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 52.80 GPixel/s
+Texture Rate: 105.6 GTexel/s
+FP16 (half): 6.758 TFLOPS (2:1)
+FP32 (float): 3.379 TFLOPS
+FP64 (double): 844.8 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc A370M,"Graphics Processor: DG2-128
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Alchemist (Arc 3 Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 1550 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+Tensor Cores: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 65.60 GPixel/s
+Texture Rate: 131.2 GTexel/s
+FP16 (half): 8.397 TFLOPS (2:1)
+FP32 (float): 4.198 TFLOPS
+FP64 (double): 1,050 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+","기반 제품명:Advantech EAI-3100 -해당 제품의 바뀐 사항 GPU Clock: 1550 MHz, Boost Clock: 2050 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Dual-slot, 2x HDMI 2x DisplayPort, 60 W
+"
+Intel Arc A380,"Graphics Processor: DG2-128
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+S-Spec: SRLFZ
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: Jun 14th, 2022
+Generation: Alchemist (Arc 3)
+Predecessor: Xe Graphics
+Production: Active
+Launch Price: 149 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 5 in our database
+
+Clock Speeds:
+Base Clock: 2000 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 1937 MHz 15.5 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 186.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+Tensor Cores: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 65.60 GPixel/s
+Texture Rate: 131.2 GTexel/s
+FP16 (half): 8.397 TFLOPS (2:1)
+FP32 (float): 4.198 TFLOPS
+
+Board Design:
+Slot Width: Dual-slot
+Length: 222 mm 8.7 inches
+Width: 114 mm 4.5 inches
+Height: 42 mm 1.7 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+","기반 제품명:Acer Predator Arc A380 -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 1x HDMI 2x DisplayPort
+기반 제품명:ASRock Arc A380 Challenger ITX OC -해당 제품의 바뀐 사항 GPU Clock: 2250 MHz, Boost Clock: 2250 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:ASRock Arc A380 Low Profile -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 169 mm/6.7 inches, 1x HDMI 1x DisplayPort
+기반 제품명:GIGABYTE A380 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2450 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE A380 WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2350 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 2x HDMI 2x DisplayPort
+기반 제품명:GUNNIR Arc A380 INDEX -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:GUNNIR Arc A380 Photon OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2450 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 92 W
+기반 제품명:Matrox LUMA A380 -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 254 mm/10 inches, Single-slot, 4x DisplayPort
+기반 제품명:SPARKLE Arc A380 ELF -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 153 mm/6 inches
+기반 제품명:SPARKLE Arc A380 GENIE -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2050 MHz, Memory Clock: 1937 MHz, 외의 바뀐 사항: 148 mm/5.8 inches, 1x HDMI 2x mini-DisplayPort
+"
+Intel Arc A550M,"Graphics Processor: DG2-512
+Cores: 2048
+TMUs: 128
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Mobile Graphics:
+Release Date: 2022
+Generation: Alchemist (Arc 5 Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 900 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 64
+Execution Units: 256
+Tensor Cores: 256
+RT Cores: 16
+L2 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 131.2 GPixel/s
+Texture Rate: 262.4 GTexel/s
+FP16 (half): 16.79 TFLOPS (2:1)
+FP32 (float): 8.397 TFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 60 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc A730M,"Graphics Processor: DG2-512
+Cores: 3072
+TMUs: 192
+ROPs: 96
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Mobile Graphics:
+Release Date: 2022
+Generation: Alchemist (Arc 7 Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 1100 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 336.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 192
+ROPs: 96
+Execution Units: 384
+Tensor Cores: 384
+RT Cores: 24
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 196.8 GPixel/s
+Texture Rate: 393.6 GTexel/s
+FP16 (half): 25.19 TFLOPS (2:1)
+FP32 (float): 12.60 TFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 80 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc A750,"Graphics Processor: DG2-512
+Cores: 3584
+TMUs: 224
+ROPs: 112
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+S-Spec: SRLX2
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Graphics Card:
+Release Date: Oct 12th, 2022
+Generation: Alchemist (Arc 7)
+Predecessor: Xe Graphics
+Production: Active
+Launch Price: 289 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 2050 MHz
+Boost Clock: 2400 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 112
+Execution Units: 448
+Tensor Cores: 448
+RT Cores: 28
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 268.8 GPixel/s
+Texture Rate: 537.6 GTexel/s
+FP16 (half): 34.41 TFLOPS (2:1)
+FP32 (float): 17.20 TFLOPS
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 225 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+","기반 제품명:ASRock Arc A750 Challenger D OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 271 mm/10.7 inches
+기반 제품명:GUNNIR Arc A750 FLUX OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 210 W
+기반 제품명:GUNNIR Arc A750 PROTON OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 210 W
+기반 제품명:Intel Arc A750 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 2050 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:SPARKLE Arc A750 ORC OC -해당 제품의 바뀐 사항 GPU Clock: 2050 MHz, Boost Clock: 2200 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 222 mm/8.7 inches
+기반 제품명:SPARKLE Arc A750 TITAN OC -해당 제품의 바뀐 사항 GPU Clock: 2050 MHz, Boost Clock: 2200 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot
+"
+Intel Arc A770,"Graphics Processor: DG2-512
+Cores: 4096
+TMUs: 256
+ROPs: 128
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+S-Spec: SRLWZ
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Graphics Card:
+Release Date: Oct 12th, 2022
+Generation: Alchemist (Arc 7)
+Predecessor: Xe Graphics
+Production: Active
+Launch Price: 329 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 15 in our database
+
+Clock Speeds:
+Base Clock: 2100 MHz
+Boost Clock: 2400 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 128
+Execution Units: 512
+Tensor Cores: 512
+RT Cores: 32
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 307.2 GPixel/s
+Texture Rate: 614.4 GTexel/s
+FP16 (half): 39.32 TFLOPS (2:1)
+FP32 (float): 19.66 TFLOPS
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 225 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+","기반 제품명:Acer Predator BiFrost Arc A770 OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock Arc A770 Phantom D OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:GUNNIR Arc A770 FLUX OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 8 GB, 300 mm/11.8 inches, 210 W
+기반 제품명:GUNNIR Arc A770 PHOTON OC -해당 제품의 바뀐 사항 GPU Clock: 2200 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Intel Arc A770 8 GB -해당 제품의 바뀐 사항 GPU Clock: 2100 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:Intel Arc A770 Limited Edition 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2100 MHz, Boost Clock: 2400 MHz, Memory Clock: 2187 MHz, 외의 바뀐 사항: 
+기반 제품명:SPARKLE Arc A770 TITAN OC -해당 제품의 바뀐 사항 GPU Clock: 2100 MHz, Boost Clock: 2400 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot
+"
+Intel Arc A770M,"Graphics Processor: DG2-512
+Cores: 4096
+TMUs: 256
+ROPs: 128
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Mobile Graphics:
+Release Date: 2022
+Generation: Alchemist (Arc 7 Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 1650 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 128
+Execution Units: 512
+Tensor Cores: 512
+RT Cores: 32
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 262.4 GPixel/s
+Texture Rate: 524.8 GTexel/s
+FP16 (half): 33.59 TFLOPS (2:1)
+FP32 (float): 16.79 TFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 120 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc A780,"Graphics Processor: DG2-512
+Cores: 4096
+TMUs: 256
+ROPs: 128
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Graphics Card:
+Release Date: Never Released
+Generation: Alchemist (Arc 7)
+Predecessor: Xe Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 2200 MHz
+Boost Clock: 2200 MHz
+Memory Clock: 1093 MHz 17.5 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 559.6 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 128
+Execution Units: 512
+Tensor Cores: 512
+RT Cores: 32
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 281.6 GPixel/s
+Texture Rate: 563.2 GTexel/s
+FP16 (half): 36.04 TFLOPS (2:1)
+FP32 (float): 18.02 TFLOPS
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 200 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 2x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc Pro A30M,"Graphics Processor: DG2-128
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Mobile Graphics:
+Release Date: Aug 8th, 2022
+Generation: Alchemist (Pro-Series Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1500 MHz
+Boost Clock: 2000 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 128.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+Tensor Cores: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 64.00 GPixel/s
+Texture Rate: 128.0 GTexel/s
+FP16 (half): 8.192 TFLOPS (2:1)
+FP32 (float): 4.096 TFLOPS
+FP64 (double): 1,024 GFLOPS (1:4)
+
+Board Design:
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc Pro A40,"Graphics Processor: DG2-128
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: Aug 8th, 2022
+Generation: Alchemist (Pro Series)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1500 MHz
+Boost Clock: 1700 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+Tensor Cores: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 54.40 GPixel/s
+Texture Rate: 108.8 GTexel/s
+FP16 (half): 6.963 TFLOPS (2:1)
+FP32 (float): 3.482 TFLOPS
+FP64 (double): 870.4 GFLOPS (1:4)
+
+Board Design:
+Slot Width: Single-slot
+TDP: 50 W
+Suggested PSU: 250 W
+Outputs: 4x mini-DisplayPort 2.0
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arc Pro A50,"Graphics Processor: DG2-128
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: Aug 8th, 2022
+Generation: Alchemist (Pro Series)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2000 MHz
+Boost Clock: 2350 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+Tensor Cores: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 75.20 GPixel/s
+Texture Rate: 150.4 GTexel/s
+FP16 (half): 9.626 TFLOPS (2:1)
+FP32 (float): 4.813 TFLOPS
+FP64 (double): 1,203 GFLOPS (1:4)
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 4x mini-DisplayPort 2.0
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Arctic Sound-M,"Graphics Processor: Arctic Sound
+Cores: 8192
+TMUs: 256
+ROPs: 128
+Memory Size: 16 GB
+Memory Type: HBM2e
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Arctic Sound
+Architecture: Generation 12.5
+Foundry: Intel
+Process Size: 10 nm
+Transistors: 8,000 million
+Density: 42.1M / mm²
+Die Size: 190 mm²
+
+Graphics Card:
+Release Date: 2022
+Generation: Data Center GPU (Arctic Sound)
+Successor: H3C Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+GPU Clock: 900 MHz
+Memory Clock: 1200 MHz 2.4 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2e
+Memory Bus: 4096 bit
+Bandwidth: 1.23 TB/s
+
+Render Config:
+Shading Units: 8192
+TMUs: 256
+ROPs: 128
+Execution Units: 512
+L2 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 115.2 GPixel/s
+Texture Rate: 230.4 GTexel/s
+FP16 (half): 29.49 TFLOPS (2:1)
+FP32 (float): 14.75 TFLOPS
+FP64 (double): 3.686 TFLOPS (1:4)
+
+Board Design:
+Slot Width: Single-slot
+Length: 267 mm 10.5 inches
+TDP: 500 W
+Suggested PSU: 900 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: N/A
+Shader Model: 6.6
+
+",없음
+Intel Data Center GPU Flex 140,"Graphics Processor: DG2-128 x2
+Cores: 1024 x2
+TMUs: 64 x2
+ROPs: 32 x2
+Memory Size: 6 GB x2
+Memory Type: GDDR6
+Bus Width: 96 bit x2","Graphics Processor:
+GPU Name: DG2-128
+GPU Variant: ACM-G11
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 7,200 million
+Density: 45.9M / mm²
+Die Size: 157 mm²
+
+Graphics Card:
+Release Date: Aug 24th, 2022
+Generation: Data Center GPU (Arctic Sound)
+Successor: H3C Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1600 MHz
+Boost Clock: 1950 MHz
+Memory Clock: 1937 MHz 15.5 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 186.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Execution Units: 128
+RT Cores: 8
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 62.40 GPixel/s
+Texture Rate: 124.8 GTexel/s
+FP16 (half): 7.987 TFLOPS (2:1)
+FP32 (float): 3.994 TFLOPS
+
+Board Design:
+Slot Width: Single-slot
+Length: 170 mm 6.7 inches
+Width: 70 mm 2.8 inches
+Height: 29 mm 1.1 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Data Center GPU Flex 170,"Graphics Processor: DG2-512
+Cores: 4096
+TMUs: 256
+ROPs: 128
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: DG2-512
+GPU Variant: ACM-G10
+Architecture: Generation 12.7
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 21,700 million
+Density: 53.4M / mm²
+Die Size: 406 mm²
+
+Graphics Card:
+Release Date: Aug 24th, 2022
+Generation: Data Center GPU (Arctic Sound)
+Successor: H3C Graphics
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1950 MHz
+Boost Clock: 2050 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 128
+Execution Units: 512
+RT Cores: 32
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 262.4 GPixel/s
+Texture Rate: 524.8 GTexel/s
+FP16 (half): 33.59 TFLOPS (2:1)
+FP32 (float): 16.79 TFLOPS
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 2.0
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Iris Xe Graphics 80EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 640
+TMUs: 40
+ROPs: 20
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 20
+Execution Units: 80
+L2 Cache: 1024 KB
+L3 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 24.00 GPixel/s
+Texture Rate: 48.00 GTexel/s
+FP16 (half): 3.072 TFLOPS (2:1)
+FP32 (float): 1.536 TFLOPS
+FP64 (double): 384.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel Iris Xe Graphics 96EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 768
+TMUs: 48
+ROPs: 24
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 768
+TMUs: 48
+ROPs: 24
+Execution Units: 96
+L2 Cache: 1024 KB
+L3 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 33.60 GPixel/s
+Texture Rate: 67.20 GTexel/s
+FP16 (half): 4.301 TFLOPS (2:1)
+FP32 (float): 2.150 TFLOPS
+FP64 (double): 537.6 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 16EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 128
+TMUs: 8
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 128
+TMUs: 8
+ROPs: 4
+Execution Units: 16
+L2 Cache: 1024 KB
+L3 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 4.800 GPixel/s
+Texture Rate: 9.600 GTexel/s
+FP16 (half): 614.4 GFLOPS (2:1)
+FP32 (float): 307.2 GFLOPS
+FP64 (double): 76.80 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 24EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 192
+TMUs: 12
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 6
+Execution Units: 24
+L2 Cache: 1024 KB
+L3 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 7.200 GPixel/s
+Texture Rate: 14.40 GTexel/s
+FP16 (half): 921.6 GFLOPS (2:1)
+FP32 (float): 460.8 GFLOPS
+FP64 (double): 115.2 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 48EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 384
+TMUs: 24
+ROPs: 12
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1150 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 12
+Execution Units: 48
+L2 Cache: 1024 KB
+L3 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 13.80 GPixel/s
+Texture Rate: 27.60 GTexel/s
+FP16 (half): 1.766 TFLOPS (2:1)
+FP32 (float): 883.2 GFLOPS
+FP64 (double): 220.8 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 64EU Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 512
+TMUs: 32
+ROPs: 16
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 16
+Execution Units: 64
+L2 Cache: 1024 KB
+L3 Cache: 10 MB
+
+Theoretical Performance:
+Pixel Rate: 22.40 GPixel/s
+Texture Rate: 44.80 GTexel/s
+FP16 (half): 2.867 TFLOPS (2:1)
+FP32 (float): 1,434 GFLOPS
+FP64 (double): 358.4 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 710,"Graphics Processor: Alder Lake GT1
+Cores: 128
+TMUs: 8
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1300 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 128
+TMUs: 8
+ROPs: 8
+Execution Units: 16
+
+Theoretical Performance:
+Pixel Rate: 10.40 GPixel/s
+Texture Rate: 10.40 GTexel/s
+FP16 (half): 665.6 GFLOPS (2:1)
+FP32 (float): 332.8 GFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 730,"Graphics Processor: Alder Lake GT1
+Cores: 192
+TMUs: 12
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 8
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 11.20 GPixel/s
+Texture Rate: 16.80 GTexel/s
+FP16 (half): 1,075 GFLOPS (2:1)
+FP32 (float): 537.6 GFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 770,"Graphics Processor: Raptor Lake GT1
+Cores: 256
+TMUs: 16
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raptor Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 27th, 2022
+Generation: HD Graphics (Raptor Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1550 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 256
+TMUs: 16
+ROPs: 8
+Execution Units: 32
+
+Theoretical Performance:
+Pixel Rate: 12.40 GPixel/s
+Texture Rate: 24.80 GTexel/s
+FP16 (half): 1.587 TFLOPS (2:1)
+FP32 (float): 793.6 GFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
+Intel UHD Graphics 770 Mobile,"Graphics Processor: Alder Lake GT1
+Cores: 256
+TMUs: 16
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Alder Lake GT1
+Architecture: Generation 12.2
+Foundry: Intel
+Process Size: 10 nm
+Transistors: unknown
+Die Size: unknown
+Chip Package: FC-LGA16A BGA16A
+
+Integrated Graphics:
+Release Date: Jan 4th, 2022
+Generation: HD Graphics-M (Alder Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1500 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 256
+TMUs: 16
+ROPs: 8
+Execution Units: 32
+L2 Cache: 1024 KB
+L3 Cache: 8 MB
+
+Theoretical Performance:
+Pixel Rate: 12.00 GPixel/s
+Texture Rate: 24.00 GTexel/s
+FP16 (half): 1.536 TFLOPS (2:1)
+FP32 (float): 768.0 GFLOPS
+FP64 (double): 192.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.6
+
+",없음
