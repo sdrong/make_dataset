@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "Pro WS TRX50-SAGE WIFI",
+            "description": "AMD TR5 CEB workstation motherboard, CPU and memory overclocking ready, robust 36 power-stage design, PCIe 5.0 x 16, M.2, 10 Gb and 2.5 Gb LAN, multi-GPU support, ASUS Control Center Express"
+        },
+        {
+            "name": "Pro WS WRX80E-SAGE SE WIFI",
+            "description": "AMD WRX80 Ryzen™ Threadripper™ PRO extended-ATX workstation motherboard, Intel dual 10 G LAN, USB 3.2 Gen 2x2 Type-C port, 3 x M.2 PCIe 4.0, ASMB9-iKVM"
+        },
+        {
+            "name": "Pro WS X570-ACE",
+            "description": "AMD AM4 X570 ATX 워크스테이션 메인보드 : 3개의 PCIe 4.0 x16 , IR3555과 14페이즈 전원부, DDR ECC 메모리, Intel Gigabit LAN, Dual M.2, U.2 및 ASUS Control Center Express"
+        }
+    ]
+}

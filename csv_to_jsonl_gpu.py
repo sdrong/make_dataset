@@ -2,13 +2,14 @@ import csv
 import json
 
 # gpu jsonl 변환 amd, intel, nvidia
+# power jsonl 변환
 
 
 # JSONL 파일에 저장할 데이터 형식을 정의합니다.
 data = []
 
 # CSV 파일에서 데이터를 읽어와 JSONL 파일에 저장합니다.
-with open('data/NVIDIA_2024.csv', 'r', newline='', encoding='utf-8') as csvfile:
+with open('data/power.csv', 'r', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     next(reader)  # 헤더를 건너뜁니다.
     for row in reader:
@@ -28,14 +29,14 @@ with open('data/NVIDIA_2024.csv', 'r', newline='', encoding='utf-8') as csvfile:
                 # 세 번째 메시지: 어시스턴트 메시지
                 {
                     "role": "assistant",
-                    "content": row[0] + "의 Main Specs는 " + row[1] + "과 같은 특징을 가지고 있고 세부 정보는 다음과 같다. " + row[2] + "드라이버 모델은 " + row[3] + "이다."
+                    "content": row[1]
                 }
             ]
         }
         data.append(message_data)
 
 # JSONL 파일에 데이터를 씁니다.
-with open('dataset/gpu_nvidia_2024.jsonl', 'w', encoding='utf-8') as jsonlfile:
+with open('dataset/power.jsonl', 'w', encoding='utf-8') as jsonlfile:
     for message_data in data:
         json.dump(message_data, jsonlfile, ensure_ascii=False)
         jsonlfile.write('\n')

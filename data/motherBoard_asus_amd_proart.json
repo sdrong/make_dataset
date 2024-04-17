@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "ProArt B650-CREATOR",
+            "description": "ProArt B650-Creator Ryzen AM5 ATX content creation motherboard with PCIe® 5.0, DDR5 support, 2.5 Gb & 1 Gb Ethernet, three M.2 slots, plus USB-C DisplayPort™ and a USB 3.2 Gen 2x2 front panel connector with Quick Charge 4+"
+        },
+        {
+            "name": "ProArt X670E-CREATOR WIFI",
+            "description": "AMD X670 Ryzen AM5 ATX content creation motherboard with PCIe® 5.0 , DDR5 support, dual USB4®, 10 Gb & 2.5 Gb Ethernet, WiFi 6E, four M.2 slots, plus a USB 3.2 Gen 2x2 front panel connector with Quick Charge 4+ support"
+        },
+        {
+            "name": "ProArt B550-CREATOR",
+            "description": "AMD B550 Ryzen AM4 ATX motherboard for content creators features PCIe® 4.0, dual Thunderbolt™ 4 Type-C ports, dual Intel® 2.5Gb Ethernet, dual M.2 with heatsinks, USB 3.2 Gen 2 and advanced security management"
+        }
+    ]
+}

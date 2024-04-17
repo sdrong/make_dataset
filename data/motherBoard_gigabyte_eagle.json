@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "Z790 EAGLE (rev. 1.0)",
+            "description": "Supports Intel® Core™ 14th/ 13th /12th processors\nUnparalleled Performance：Twin 12*+1+１ Phases Digital VRM Solution\nDual Channel DDR5：4*DIMMs with XMP 3.0 Memory Module Support\nNext Generation Storage：3*PCIe 4.0 x4 M.2 Connectors\nAdvanced Thermal Design & M.2 Thermal Guard: To Ensure VRM Power Stability & M.2 SSD Performance\nEZ-Latch：PCIe 5.0x16 Slot with Quick Release Design\nFast Networks：2.5GbE LAN\nExtended Connectivity：DP, HDMI, Rear USB-C® 10Gb/s\nSmart Fan 6：Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP\nQ-Flash Plus：Update BIOS Without Installing the CPU, Memory and Graphics Card\n* 6+6 phases parallel power design"
+        },
+        {
+            "name": "Z790 EAGLE AX (rev. 1.0)",
+            "description": "Supports Intel® Core™ 14th/ 13th /12th processors\nUnparalleled Performance：Twin 12*+1+１ Phases Digital VRM Solution\nDual Channel DDR5：4*DIMMs with XMP 3.0 Memory Module Support\nNext Generation Storage：3*PCIe 4.0 x4 M.2 Connectors\nAdvanced Thermal Design & M.2 Thermal Guard: To Ensure VRM Power Stability & M.2 SSD Performance\nEZ-Latch：PCIe 5.0x16 Slot with Quick Release Design\nFast Networks：2.5GbE LAN & Wi-Fi 6E 802.11ax\nExtended Connectivity：DP, HDMI, Rear USB-C® 10Gb/s\nSmart Fan 6：Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP\nQ-Flash Plus：Update BIOS Without Installing the CPU, Memory and Graphics Card\n* 6+6 phases parallel power design"
+        },
+        {
+            "name": "B650 EAGLE AX",
+            "description": "AMD Socket AM5：Supports AMD Ryzen™ 7000 Series Processors\nUnparalleled Performance：12+2+2 Phases Digital VRM Solution\nDual Channel DDR5：4*SMD DIMMs with AMD EXPO™ & Intel® XMP Memory Module Support\nSuperSpeed Storage：1*PCIe 5.0 + 2*PCIe 4.0 M.2 Connectors\nAdvanced Thermal Design & M.2 Thermal Guard：To Ensure VRM Power Stability & 25110 M.2 SSD Performance\nEZ-Latch：PCIe x16 Slot with Quick Release Design\nFast Networks：Wi-Fi 6E 802.11ax & GbE LAN\nExtended Connectivity：DP, HDMI, Rear USB® 10Gb/s\nSmart Fan 6：Features Multiple Temperature Sensors, Hybrid Fan Headers with FAN STOP\nQ-Flash Plus：Update BIOS Without Installing the CPU, Memory and Graphics Card"
+        }
+    ]
+}
