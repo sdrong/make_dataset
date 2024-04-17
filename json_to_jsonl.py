@@ -1,5 +1,6 @@
 import json
 
+# x테스트
 # JSON 파일로부터 데이터 읽어오기
 with open('data/motherBoard_gigabyte_ultraDurable.json', 'r', encoding='utf-8') as json_file:
     json_data = json.load(json_file)
