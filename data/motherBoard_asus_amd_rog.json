@@ -1,0 +1,132 @@
+{
+    "products": [
+        {
+            "name": "ROG CROSSHAIR VIII EXTREME",
+            "description": "AMD X570 E-ATX 게이밍 메인보드: 18+2 파워 스테이지, 5개의 M.2 슬롯, USB 3.2 Gen 2x2 전면 패널 커넥터(PD 3.0 60W 지원), USB 3.2 Gen 2 전면 패널 커넥터, Dual Thunderbolt™ 4, Marvell® AQtion 10Gb 이더넷, 인텔® 2.5Gb 이더넷, PCIe® 4.0, 온보드 WiFi 6E 및 Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG STRIX B550-F GAMING WIFI II",
+            "description": "AMD B550 Ryzen AM4 Gaming ATX 마더보드, PCIe® 4.0, 12+2 팀 구성 전원 스테이지, 인텔® 2.5Gb 이더넷, WiFi 6E, 양방향 AI 노이즈 캔슬링, 히트싱크가 있는 듀얼 M.2 슬롯, SATA 6Gbps, USB 3.2 Gen 2 및 Aura Sync RGB 조명"
+        },
+        {
+            "name": "ROG STRIX X570-E GAMING WIFI II",
+            "description": "PCIe® 4.0, 12+4 전원부, WiFi 6E (802.11ax), Realtek 2.5 Gb 이더넷, 양방향 AI 노이즈 캔슬링, 듀얼 M.1와 히트싱크, SATA 6 GB/s, USB 3.2 Gen 2 Type C, Aura Sync RGB light 지원하는 AMD X570 ATX Gaming 메인보드"
+        },
+        {
+            "name": "ROG STRIX B450-F GAMING II",
+            "description": "AMD AM4 B450 Gaming ATX motherboard with DDR4 4400 MHz support, AI Noise-Canceling Microphone, M.2 with heatsink, USB 3.2 Gen 2, SATA 6 Gbps and Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG STRIX B550-I GAMING",
+            "description": "AMD B550 Gaming Mini-ITX motherboard with PCIe® 4.0, teamed power stages, Intel® 2.5 Gb Ethernet, WiFi 6 (802.11ax), dual M.2 with heatsink, SATA 6 Gbps, USB 3.2 Gen 2"
+        },
+        {
+            "name": "ROG STRIX B550-XE GAMING WIFI",
+            "description": "AMD B550 Ryzen AM4 ATX Gaming motherboard with PCIe® 4.0, 16 power stages, Intel® 2.5 Gb Ethernet, WiFi 6 (802.11ax), two onboard M.2 slots and four additional M.2 slots on the bundled ASUS Hyper M.2 x16 Gen 4 Card, SATA 6 Gbps, USB 3.2 Gen 2 and Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG STRIX B550-A GAMING",
+            "description": "AMD B550 Ryzen AM4 Gaming ATX motherboard with PCIe® 4.0, teamed power stages, Intel® 2.5Gb Ethernet, dual M.2 with heatsinks, SATA 6 Gbps, USB 3.2 Gen 2 and Aura Sync RGB"
+        },
+        {
+            "name": "ROG Crosshair VIII Dark Hero",
+            "description": "AMD X570 ATX gaming motherboard with PCIe 4.0, 16 power stages, OptiMem III, on-board Wi-Fi 6 (802.11ax), 2.5 Gbps Ethernet, USB 3.2, SATA, M.2 and Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG STRIX B550-E GAMING",
+            "description": "AMD B550 Gaming ATX motherboard with PCIe® 4.0, teamed power stages, Intel® 2.5 Gb Ethernet, WiFi 6 (802.11ax), dual M.2 with heatsinks, SATA 6 Gbps, USB 3.2 Gen 2 and Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG STRIX B550-F GAMING (WI-FI)",
+            "description": "PCIe® 4.0, 팀 파워 스테이지, 인텔® 2.5Gb 이더넷, WiFi 6(802.11ax), 히트싱크 듀얼 M.2, SATA 6Gbps, USB 3.2 Gen 2 및 Aura Sync RGB 조명 탑재된 AMD B550 ATX 게임 메인보드"
+        },
+        {
+            "name": "ROG STRIX B550-F GAMING",
+            "description": "AMD B550 ATX gaming motherboard with PCIe® 4.0, teamed power stages, Intel® 2.5Gb Ethernet, dual M.2 with heatsinks, SATA 6 Gbps, USB 3.2 Gen 2 and Aura Sync RGB lighting"
+        },
+        {
+            "name": "ROG Zenith II Extreme Alpha",
+            "description": "AMD sTRX4 소켓 기반의 3세대 라이젠 쓰레드리퍼를 위한 16개의 전원부, PCIe 4.0, 온보드 Wi-Fi 6(802.11ax), 10Gbps LAN, USB 3.2 Gen 2x2, 듀얼 USB 3.2 전면 패널 커넥터, 5개의 M.2 슬롯, SATA 및 Aura Sync RGB를 지원하는 E-ATX 플랫폼"
+        },
+        {
+            "name": "ROG Zenith II Extreme",
+            "description": "AMD sTRX4 소켓 기반의 3세대 라이젠 쓰레드리퍼를 위한 16개의 전원부, PCIe 4.0, 온보드 Wi-Fi 6(802.11ax), 10Gbps LAN, USB 3.2 Gen 2x2, 듀얼 USB 3.2 전면 패널 커넥터, 5개의 M.2 슬롯, SATA 및 Aura Sync RGB를 지원하는 E-ATX 플랫폼"
+        },
+        {
+            "name": "ROG Strix TRX40-E Gaming",
+            "description": "AMD sTRX4 소켓 기반의 ATX 메인보드로 3세대 쓰레드리퍼를 위한 16개의 전원부, 온보드 Wi-Fi 6(802.11ax), 2.5Gbps LAN, USB 3.2 Gen 2, SATA, 3개의 M.2, OLED 그리고 Aura Sync RGB lighting를 지원하는 ATX 플랫폼"
+        },
+        {
+            "name": "ROG STRIX B350-I GAMING",
+            "description": "AMD AM4 B350 mini-ITX 게이밍 마더 보드: AMD AM4 소켓 기반의 mITX 메인보드로 DDR4, M.2, USB 3.1, 802.11ac WiFi를 지원"
+        },
+        {
+            "name": "ROG STRIX B350-F GAMING",
+            "description": "Aura Sync RGB LED, DDR4 3200MHz, M.2, SATA 6Gbps 및 USB 3.1을 지원하는 AMD AM4 B350 ATX 게이밍 마더보드"
+        },
+        {
+            "name": "ROG ZENITH EXTREME",
+            "description": "M.2 히트싱크, Aura Sync RGB LED, 802.11ad Wi-Fi, DDR4 3600MHz, 트리플 M.2, 10G 랜카드, U.2 및 USB 3.1 Gen 2를 지원하는 AMD X399 EATX 게이밍 마더보드"
+        },
+        {
+            "name": "ROG Strix X570-I Gaming",
+            "description": "PCIe 4.0, Aura Sync RGB, Intel 기가비트 이더넷, Wi-Fi 6(802.11ax), Heatsink가 포함된 듀얼 M.2, DisplayPort 1.4, SATA 6Gb/s 및 USB 3.2 지원 AMD X570 미니 ITX 게이밍 메인보드"
+        },
+        {
+            "name": "ROG Strix X570-F Gaming",
+            "description": "AMD X570 ATX Gaming 메인보드를 기반으로 PCIe 4.0, Intel Gigabit Ethernet, 14 페이즈, Dual M.2와 히트싱크, SATA 6Gb/s, USB 3.2 Gen 2, Aura Sync RGB Light 지원"
+        },
+        {
+            "name": "ROG Strix X570-E Gaming",
+            "description": "AMD X570 ATX Gaming 메인보드를 기반으로 PCIe 4.0, 2.5Gbps와 Intel Gigabit Ethernet, 16 페이즈, Dual M.2와 히트싱크, SATA 6Gb/s, USB 3.2 Gen 2, Aura Sync RGB Light 지원"
+        },
+        {
+            "name": "ROG STRIX X470-I GAMING",
+            "description": "AMD X470 ITX 게이밍 마더보드 : M.2 방열판, Aura Sync RGB LED 조명, DDR4 3466MHz 지원, 802.11ac Wi-Fi, 듀얼 M.2, SATA 6Gb / s 및 USB 3.1 Gen 2"
+        },
+        {
+            "name": "ROG STRIX X470-F GAMING",
+            "description": "AMD X470 ATX 게이밍 마더 보드, M.2 방열판, Aura Sync RGB LED 조명, DDR4 3466MHz 지원, 듀얼 M.2, SATA 6Gb / s 및 USB 3.1 Gen 2"
+        },
+        {
+            "name": "ROG STRIX X399-E GAMING",
+            "description": "AMD X399 EATX 게이밍 마더보드 Aura Sync RGB LED 조명, 802.11ac Wi-Fi, DDR4 3600MHz, Dual M.2, SATA 6Gbps 및 USB 3.1 Gen 2 전면 패널 커넥터"
+        },
+        {
+            "name": "ROG STRIX X370-F GAMING",
+            "description": "Aura Sync RGB LED, DDR4 3200MHz, M.2, USB 3.1 전면 패널 커넥터 및 Type-A/C을 지원하는 AMD AM4 x370 ATX 게이밍 마더보드"
+        },
+        {
+            "name": "ROG STRIX B450-F GAMING",
+            "description": "AMD B450 ATX Gaming 메인보드를 기반으로 DDR4 3200MHz, SATA 6Gbps, HDMI 2.0 Dual M.2, USB 3.1 Gen 2 및 Aura Sync RGB LED지원"
+        },
+        {
+            "name": "ROG STRIX B450-E GAMING",
+            "description": "AMD AM4 B450 ATX Gaming motherboard with DDR4 3533MHz support, 802.11ac Wi-Fi, SATA 6Gbps, HDMI 2.0, dual M.2, USB 3.1 Gen 2, and Aura Sync RGB LED lighting"
+        },
+        {
+            "name": "ROG Crosshair VIII Impact",
+            "description": "이중M.2 및 Wi-Fi 6(802.11 Ax), PCIe 4.0, SupremeFX 오디오, Aura Sync RGB LED 조명, SATA 6Gb/s 및 USB 3.2 Gen 2지원 AMD AM4 X570 Mini-DTX 매니아 게이밍 메인보드"
+        },
+        {
+            "name": "ROG Crosshair VIII Hero",
+            "description": "AMD X570 ATX Gaming 메인보드를 기반으로 PCIe 4.0, Wi-Fi 6(802.11ax), 2.5Gbps LAN, USB 3.2, SATA, M.2, ASUS NODE 및 Aura Sync RGB Lighting 지원"
+        },
+        {
+            "name": "ROG Crosshair VIII Hero (WI-FI)",
+            "description": "AMD X570 ATX Gaming 메인보드를 기반으로 PCIe 4.0, Wi-Fi 6(802.11ax), 2.5Gbps LAN, USB 3.2, SATA, M.2, ASUS NODE 및 Aura Sync RGB Lighting 지원"
+        },
+        {
+            "name": "ROG Crosshair VIII Formula",
+            "description": "AMD X570 ATX Gaming 메인보드를 기반으로 Wi-Fi 6(802.11ax), 5Gbps LAN, USB 3.2, SATA, M.2, ASUS NODE 및 Aura Sync RGB Lighting 지원"
+        },
+        {
+            "name": "ROG CROSSHAIR VII HERO",
+            "description": "AMD X470 ATX 게이밍 마더보드 : M.2 방열판, Aura Sync RGB LED, DDR4 3466MHz, 듀얼 M.2, SATA 6Gb / s 및 USB 3.1 Gen 2"
+        },
+        {
+            "name": "ROG CROSSHAIR VII HERO (WI-FI)",
+            "description": "AMD X470 ATX 게이밍 마더보드 : M.2 방열판, Aura Sync RGB LED, DDR4 3466MHz, 802.11ac Wi-Fi, 듀얼 M.2, SATA 6Gb / s 및 USB 3.1 Gen 2"
+        }
+    ]
+}

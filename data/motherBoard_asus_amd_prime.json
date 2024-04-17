@@ -1,0 +1,176 @@
+{
+    "products": [
+        {
+            "name": "PRIME B550M-K ARGB",
+            "description": "AMD B550 (Ryzen™ AM4) mATX motherboard with dual M.2 slots, PCIe 4.0, Realtek 1Gb Ethernet, DisplayPort/HDMI™, SATA 6 Gbps, rear USB 3.2 Gen 1 ports, front USB 3.2 Gen 1 Type-C® and Aura Sync"
+        },
+        {
+            "name": "PRIME A620M-K",
+            "description": "AMD A620 (Ryzen™ AM5) micro-ATX motherboard with DDR5, PCIe 4.0 Graphics card and PCIe 4.0 M.2 support, HDMI™, VGA, USB 3.2 Gen 1 Type-A, SATA 6 Gbps, Two-Way AI Noise Cancelation, Aura Sync"
+        },
+        {
+            "name": "PRIME B650M-K",
+            "description": "ASUS PRIME B650M-K AMD B650 (Ryzen AM5) micro ATX motherboard, DDR5 support, two M.2 slots, 2.5 Gb LAN, HDMI™, VGA, USB 3.2 Gen 2 ports, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, Aura Sync"
+        },
+        {
+            "name": "PRIME A620M-E",
+            "description": "AMD A620 (Ryzen™ AM5) micro-ATX motherboard with DDR5, PCIe 4.0 Graphics card and PCIe 4.0 M.2 support, DisplayPort, HDMI™, VGA, USB 3.2 Gen 1 Type-A, SATA 6 Gbps, Two-Way AI Noise Cancelation, Aura Sync"
+        },
+        {
+            "name": "PRIME A620M-A",
+            "description": "AMD A620 (Ryzen™ AM5) micro-ATX motherboard with DDR5, PCIe 4.0 support, dual M.2 slots, DisplayPort/HDMI™/VGA, USB 3.2 Gen 1 ports, front USB 3.2 Gen 1 Type-C®, SATA 6 Gbps, BIOS FlashBack™, Two-Way AI Noise Cancelation and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME B650M-A",
+            "description": "ASUS PRIME B650M-A AMD B650 (Ryzen AM5) micro ATX motherboard, DDR5 support, two M.2 slots, 2.5 Gb LAN, DisplayPort/HDMI®/VGA , USB 3.2 Gen 2 ports, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, Arua Sync"
+        },
+        {
+            "name": "PRIME B650-PLUS-CSM",
+            "description": "ASUS PRIME B650-PLUS-CSM AMD B650 (Ryzen AM5) ATX motherboard with DDR5, PCIe 5.0 M.2 support, Realtek 2.5Gb Ethernet, DisplayPort, HDMI®, SATA 6 Gbps, USB 3.2 Gen 2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, USB4® Support and Arua Sync."
+        },
+        {
+            "name": "PRIME B650M-A WIFI",
+            "description": "ASUS PRIME B650M-A WIFI AMD B650 (Ryzen AM5) micro ATX motherboard, DDR5 support, two M.2 slots, 2.5 Gb LAN, Wi-Fi 6, DisplayPort/HDMI®/VGA , USB 3.2 Gen 2 ports, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, Arua Sync"
+        },
+        {
+            "name": "PRIME B650-PLUS",
+            "description": "ASUS PRIME B650-PLUS AMD B650 (Ryzen AM5) ATX motherboard with DDR5, PCIe 5.0 M.2 support, Realtek 2.5Gb Ethernet, DisplayPort, HDMI®, SATA 6 Gbps, USB 3.2 Gen 2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, USB4® Support and Arua Sync."
+        },
+        {
+            "name": "PRIME X670-P-CSM",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, V-M.2 slot (Key E), USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X670-P WIFI-CSM",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, WiFi 6, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X670-P",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support"
+        },
+        {
+            "name": "PRIME X670E-PRO WIFI",
+            "description": "AMD X670E (Ryzen AM5) ATX motherboard with PCIe® 5.0, four M.2 slots, 14+2 Teamed Power Stages, DDR5, HDMI®, DisplayPort™, 2.5 Gb Ethernet, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X670-P WIFI",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, WiFi 6, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support"
+        },
+        {
+            "name": "PRIME B550M-A WIFI II",
+            "description": "AMD B550(Ryzen AM4) 기반의 micro ATX 메인보드로 듀얼 M.2, PCIe 4.0, 1Gb 이더넷, HDMI/D-Sub/DVI, SATA 6Gbps, USB 3.2 Gen 2 Type-A 및 Aura Sync RGB 헤더 지원"
+        },
+        {
+            "name": "PRIME A320M-C R2.0",
+            "description": "AMD AM4 uATX 메인보드 : 5X Protection II, DDR4 3200MHz, NVMe PCIe Gen3 32Gb / s M.2, HDMI, SATA 6Gb/s, USB 3.1 Gen 1 지원"
+        },
+        {
+            "name": "PRIME A520M-A II",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2, DP, HDMI,D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 ports, and Aura Sync RGB lighting support"
+        },
+        {
+            "name": "PRIME TRX40-PRO S",
+            "description": "AMD TRX40 ATX motherboard sTRX4 for 3rd Gen Ryzen Threadripper-series processors (up to 64 cores) with 16 power stages, DDR4 4666+ MHz (O.C.), triple PCIe 4.0 M.2s, USB 3.2 Gen 2 Type-C front-panel connector and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME B450M-A II",
+            "description": "AMD B450 (Ryzen AM4) micro ATX motherboard with M.2 support, HDMI/DVI-D/D-Sub, SATA 6 Gbps, 1 Gb Ethernet, USB 3.2 Gen 2 Type-A, BIOS FlashBack™, and Aura Sync RGB lighting support"
+        },
+        {
+            "name": "PRIME B450M-K II",
+            "description": "AMD B450 (Ryzen AM4) micro ATX motherboard with M.2 support, HDMI/DVI-D/D-Sub, SATA 6 Gbps, 1 Gb Ethernet, USB 3.2 Gen 1 Type-A, BIOS FlashBack™"
+        },
+        {
+            "name": "PRIME B450M-A II/CSM",
+            "description": "AMD B450 (Ryzen AM4) micro ATX motherboard with M.2 support, HDMI/DVI-D/D-Sub, SATA 6 Gbps, 1 Gb Ethernet, USB 3.2 Gen 2 Type-A, BIOS FlashBack™, and Aura Sync RGB lighting support"
+        },
+        {
+            "name": "PRIME A520M-A/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME A520M-E/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME A520M-K/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME A520M-K",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME A520M-E",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME A520M-A",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME B550M-K/CSM",
+            "description": "AMD B550 (Ryzen AM4) micro ATX motherboard with dual M.2, PCIe 4.0, 1 Gb Ethernet, HDMI/D-Sub/DVI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME B550-PLUS",
+            "description": "AMD B550 (Ryzen AM4) ATX motherboard with dual M.2, PCIe 4.0, 1 Gb Ethernet, DisplayPort/HDMI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A and Type-C, and Aura Sync RGB headers support"
+        },
+        {
+            "name": "PRIME B550M-K",
+            "description": "AMD B550 (Ryzen AM4) micro ATX motherboard with dual M.2, PCIe 4.0, 1 Gb Ethernet, HDMI/D-Sub/DVI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME B550M-A",
+            "description": "AMD B550(Ryzen AM4) 기반의 micro ATX 메인보드로 Dual M.2, PCIe 4.0, 1Gb Ethernet, HDMI/D-Sub/DVI, SATA 6Gbps, USB 3.2 Gen 2 Type-A 그리고 Aura Sync RGB 헤더 지원"
+        },
+        {
+            "name": "PRIME B550M-A (WI-FI)",
+            "description": "AMD B550(Ryzen AM4) 기반의 micro ATX 메인보드로 Dual M.2, PCIe 4.0, Intel® Wi-Fi 6, 1Gb Ethernet, HDMI/D-Sub/DVI, SATA 6Gbps, USB 3.2 Gen 2 Type-A 그리고 Aura Sync RGB 헤더 지원"
+        },
+        {
+            "name": "PRIME X570-PRO/CSM",
+            "description": "AMD AM4 ATX motherboard with PCIe 4.0, 14 DrMOS power stages, dual M.2, HDMI, SATA 6Gb/s, USB 3.2 Gen 2 front-panel connector and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X570-P",
+            "description": "AMD AM4 ATX motherboard with PCIe 4.0, 12 DrMOS power stages, DDR4 4400MHz, dual M.2, HDMI, SATA 6Gb/s, USB 3.2 Gen 2 and Aura Sync RGB header"
+        },
+        {
+            "name": "PRIME X570-PRO",
+            "description": "AMD AM4 ATX motherboard with PCIe 4.0, 14 DrMOS power stages, DDR4 4400MHz, dual M.2, HDMI, SATA 6Gb/s, USB 3.2 Gen 2 front-panel connector and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME B450M-A/CSM",
+            "description": "AMD AM4 mATX motherboard with Aura Sync RGB header, DDR4 4400MHz, M.2, HDMI 2.0b, SATA 6Gbps and USB 3.1 Gen 2"
+        },
+        {
+            "name": "PRIME A320I-K",
+            "description": "AMD AM4 mini–ITX motherboard with Aura Sync RGB header, DDR4 3600MHz, 32Gb/s M.2, HDMI, DisplayPort, SATA 6Gb/s, USB 3.0"
+        },
+        {
+            "name": "PRIME B450M-K",
+            "description": "AMD AM4 ATX 메인보드 : LED Light, DDR4 3200MHz, M.2, SATA 6Gbps 및 USB3.1 Gen 2 지원"
+        },
+        {
+            "name": "PRIME B450M-A",
+            "description": "PRIME B450-A AMD AM4 ATX 메인보드 : Aura Sync RGB, DDR4 3200MHz, M.2, HDMI 2.0b, SATA 6Gbps 및 USB3.1 Gen 2 지원"
+        },
+        {
+            "name": "PRIME B450-PLUS",
+            "description": "AMD AM4 ATX 메인보드 : Aura Sync RGB, DDR4 3200MHz, M.2, HDMI 2.0b, SATA 6Gbps 및 USB3.1 Gen 2 지원"
+        },
+        {
+            "name": "PRIME A320M-E",
+            "description": "AMD AM4 uATX motherboard with LED lighting, DDR4 3200MHz, 32Gb/s M.2, HDMI, SATA 6Gb/s, USB 3.1 Gen 2"
+        },
+        {
+            "name": "PRIME A320M-K",
+            "description": "LED 조명, DDR4 3200MHz, 32Gb/s M.2, HDMI, SATA 6Gb/s, USB 3.0을 갖춘 AMD AM4 uATX메인보드"
+        },
+        {
+            "name": "PRIME A320M-A",
+            "description": "AMD AM4 uATX motherboard with LED lighting, DDR4 3200 MHz, 32Gb/s M.2, SATA 6Gb/s, HDMI,USB 3.0"
+        }
+    ]
+}

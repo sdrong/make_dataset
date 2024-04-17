@@ -1,0 +1,48 @@
+{
+    "products": [
+        {
+            "name": "Pro WS W480-ACE",
+            "description": "Intel ATX workstation motherboard LGA 1200 for Intel Xeon W-series processors with DDR4-2933 ECC memory, ASUS Control Center Express, Dual LAN, RTL8117, Dual Type-C Thunderbolt 3 ports, Dual M.2 and USB 3.2"
+        },
+        {
+            "name": "WS X299 SAGE/10G",
+            "description": "Intel LGA 2066 CEB motherboard with quad-GPU support, DDR4 4200MHz, Dual Intel® 10G LANs, M.2, U.2, USB 3.1 Gen 2 connectors, and ASUS Control Center"
+        },
+        {
+            "name": "WS C246M PRO",
+            "description": "Compact, rack-optimized Intel® LGA1151 micro-ATX motherboard with M.2, USB 3.1 Gen2 connectors and dual Gigabit LAN"
+        },
+        {
+            "name": "WS C246 PRO",
+            "description": "Intel® LGA1151 ATX motherboard with four PCIe 3.0 x16 slots, dual M.2 and USB 3.1 Gen2 connectors"
+        },
+        {
+            "name": "WS C621E SAGE",
+            "description": "쿼드 그래픽 지원 및 12 DDR4 메모리 슬롯이있는 인텔 ® C621 마더 보드"
+        },
+        {
+            "name": "WS X299 PRO",
+            "description": "DDR4 4133MHz, 듀얼 M.2 및 M.2 방열판, U.2 및 USB 3.1 Gen 2 커넥터가있는 Intel LGA 2066 ATX 메인보드"
+        },
+        {
+            "name": "WS X299 PRO/SE",
+            "description": "DDR4 4133MHz, 듀얼 M.2 및 M.2 방열판, U.2, USB 3.1 Gen 2 커넥터, ASMB9-iKVM 및 ASUS 제어 센터가있는 Intel LGA 2066 ATX 마더 보드."
+        },
+        {
+            "name": "WS X299 SAGE",
+            "description": "쿼드 GPU를 지원하는 Intel LGA 2066 CEB 마더 보드, DDR4 4200MHz, 듀얼 M.2 & U.2, USB 3.1 Gen 2 커넥터 및 ASUS Control Center"
+        },
+        {
+            "name": "P10S-M WS",
+            "description": "미디어 서버를 위해 렉에 최적화된 초소형 워크스테이션 보드"
+        },
+        {
+            "name": "P10S WS",
+            "description": "전문 워크스테이션에 최적화"
+        },
+        {
+            "name": "Z10PE-D8 WS",
+            "description": "High Expandable EEB Power with Dual CPU"
+        }
+    ]
+}

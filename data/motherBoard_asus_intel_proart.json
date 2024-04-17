@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "name": "ProArt B660-CREATOR D4",
+            "description": "인텔® B660 LGA 1700 ATX 메인보드, PCIe® 5.0, DDR4 지원, 2.5Gb 및 1Gb 이더넷, PCIe 4.0 M.2 슬롯 3개, USB-C DisplayPort™, USB 3.2 Gen 2x2 전면 패널 커넥터(Quick Charge 4+ 지원)"
+        },
+        {
+            "name": "ProArt Z690-CREATOR WIFI",
+            "description": "인텔® Z690 LGA 1700 ATX 메인보드, PCIe® 5.0, DDR5 지원, Thunderbolt™ 4, 10Gb 및 2.5Gb 이더넷, WiFi 6E, 히트싱크 PCIe 4.0 M.2 슬롯 4개, USB 3.2 Gen 2x2 전면 패널 커넥터(Quick Charge 4+ 지원)"
+        }
+    ]
+}

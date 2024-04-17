@@ -1,0 +1,140 @@
+{
+    "products": [
+        {
+            "name": "PRIME H610M-CS 2.5G",
+            "description": "Intel® H610 (LGA 1700) mic-ATX motherboard with DDR5, PCIe 4.0, M.2 slot, Realtek 2.5 Gb Ethernet, HDMI™, VGA, USB 5Gbps ports, SATA 6 Gbps, COM header, LPT header, TPM header, Luminous Anti-moisture coating"
+        },
+        {
+            "name": "PRIME Z790M-PLUS D4-CSM",
+            "description": "Intel Z790 (LGA 1700) mATX motherboard with PCIe® 5.0, three M.2 slots, 10+1 DrMOS, DDR4, Intel® 1 Gb LAN, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, Thunderbolt™ (USB4®) support, Arua Sync"
+        },
+        {
+            "name": "PRIME Z790-P WIFI D4-CSM",
+            "description": "Intel Z790 (LGA 1700) ATX motherboard with PCIe® 5.0, three M.2 slots, 14+1 DrMOS, DDR4, Realtek 2.5Gb Ethernet, Intel® Wi-Fi 6, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C®, Thunderbolt™ (USB4®) support, Arua Sync"
+        },
+        {
+            "name": "PRIME Z790-P D4-CSM",
+            "description": "Intel Z790 (LGA 1700) ATX motherboard with PCIe® 5.0, three M.2 slots, 14+1 DrMOS, DDR4, Realtek 2.5Gb Ethernet, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C®, Thunderbolt™ (USB4®) support, Arua Sync"
+        },
+        {
+            "name": "PRIME Z790-P-CSM",
+            "description": "Intel Z790 (LGA 1700) ATX motherboard with PCIe® 5.0, three M.2 slots, 14+1 DrMOS, DDR5, Realtek 2.5 Gb LAN, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C®, Thunderbolt™ (USB4®) support, Arua Sync"
+        },
+        {
+            "name": "PRIME Z790-P WIFI-CSM",
+            "description": "Intel Z790 (LGA 1700) ATX motherboard with PCIe® 5.0, three M.2 slots, 14+1 DrMOS, DDR5, Intel WIFI 6, Realtek 2.5 Gb LAN, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C®, Thunderbolt™ (USB4®) support, Arua Sync"
+        },
+        {
+            "name": "PRIME Z790-A WIFI-CSM",
+            "description": "ASUS Prime Z790-A WIFI-CSM, an Intel Z790 LGA 1700 ATX motherboard with PCIe® 5.0, four M.2 slots, 16+1 DrMOS, DDR5, Intel WIFI 6E, 2.5 Gb LAN, HDMI®, DP, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C®, Thunderbolt™ (USB4®) support"
+        },
+        {
+            "name": "Pro B660M-C D4-CSM",
+            "description": "향상된 보안, 안정성, 쉬운 관리 및 서비스를 갖춘 Micro-ATX B660 비즈니스 메인보드"
+        },
+        {
+            "name": "Pro H510M-CT/CSM",
+            "description": "Micro-ATX H510 business motherboard with enhanced security, reliability and manageability , Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™ processors, ASUS-exclusive self-recovering BIOS technology for automatic system BIOS recovery from a verified backup"
+        },
+        {
+            "name": "PRIME H510M-E/CSM",
+            "description": "PRIME H510M-E Intel® H510 (LGA 1200) micro ATX motherboard features PCIe 4.0, 32Gbps M.2 slot, USB 3.2 Gen 1 Type-A, Intel® 1 Gb Ethernet, DisplayPort, HDMI, D-Sub, SATA 6Gbps, COM header, RGB header, FAN Xpert, Armoury Crate, 5X PROTECTION III, and SafeSlot Core."
+        },
+        {
+            "name": "PRIME H510M-D/CSM",
+            "description": "PRIME H510M-D/CSM Intel® H510 (LGA 1200) micro ATX motherboard features PCIe 4.0, 32Gbps M.2 slot, Intel® 1 Gb Ethernet, HDMI, D-Sub, USB 3.2 Gen 1 Type-A, SATA 6 Gbps, COM port, LPT header, RGB header, FAN Xpert, Armoury Crate, and 5X PROTECTION III."
+        },
+        {
+            "name": "PRIME H510M-A/CSM",
+            "description": "PRIME H510M-A/CSM Intel® H510 (LGA 1200) micro ATX motherboard features PCIe 4.0, 32Gbps M.2 slot, Intel® 1 Gb Ethernet, DisplayPort, HDMI, D-Sub, USB 3.2 Gen 1 Type-A, SATA 6 Gbps, AURA Addressable Gen 2 headers, Aura Sync, FAN Xpert 2+, Armoury Crate, MyAsus, and 5X PROTECTION III."
+        },
+        {
+            "name": "PRIME H510M-A WIFI/CSM",
+            "description": "PRIME H510M-A WIFI/CSM Intel® H510 (LGA 1200) micro ATX motherboard features PCIe 4.0, 32Gbps M.2 slot, Intel® WiFi 5, Intel® 1 Gb Ethernet, DisplayPort, HDMI, D-Sub, USB 3.2 Gen 1 Type-A, SATA 6 Gbps, AURA Addressable Gen 2 headers, Aura Sync, FAN Xpert 2+, Armoury Crate, MyAsus, and 5X PROTECTION III."
+        },
+        {
+            "name": "Pro B560M-C/CSM",
+            "description": "Pro B560M-C/CSM Intel® B560 (LGA 1200) mATX motherboard features PCIe 4.0 support with SafeSlot core, two M.2 slots ,two DP ports, USB 3.2 Gen 1 and Intel® 1 Gb Ethernet. In addition, it also features M.2 E-key with PCIe and CNVi modes"
+        },
+        {
+            "name": "Pro H510M-C/CSM",
+            "description": "Intel® H510 (LGA 1200) Micro-ATX motherboard, M.2, DP, HDMI, DVI, D-sub, USB 3.2 Gen 1 ports, SATA 6Gb/s, COM header"
+        },
+        {
+            "name": "PRIME Z490-A/CSM",
+            "description": "Intel® Z490 (LGA 1200) ATX motherboard with dual M.2, 14 DrMOS power stages, HDMI, DisplayPort, SATA 6 Gbps, Intel® 2.5Gb Ethernet, USB 3.2 Gen 2 Type-C®, Thunderbolt™ 3 support, and Aura Sync RGB lighting"
+        },
+        {
+            "name": "Pro B460M-C/CSM",
+            "description": "Micro-ATX 규격의 B460 기반의 비즈니스용 메인보드로 향상된 보안, 안정성 및 관리 기능 제공"
+        },
+        {
+            "name": "Pro H410T/CSM",
+            "description": "Thin Mini ITX H410 business motherboard with enhanced security, reliability and manageability"
+        },
+        {
+            "name": "EX-H410M-V3/CSM",
+            "description": "Intel® H410 LGA 1200 mATX motherboard feature with luminous anti-moisture coating, USBGuard, LANGuard, SafeSlot Core, DDR4 2933MHz, HDMI, SATA 6Gbps and USB 3.2 Gen 1"
+        },
+        {
+            "name": "PRIME H470M-PLUS/CSM",
+            "description": "Intel® H470 (LGA 1200) micro ATX motherboard with dual M.2,HDMI, DisplayPort, DVI, SATA 6 Gbps, Intel® 1 Gb Ethernet, USB 3.2 Gen 2 Type-A® and Type-C®"
+        },
+        {
+            "name": "PRIME Z490M-PLUS/CSM",
+            "description": "Intel® Z490 (LGA 1200) micro ATX motherboard with dual M.2, 9 DrMos power stages, HDMI, DisplayPort, DVI, SATA 6 Gbps, Intel® 1 Gb Ethernet, USB 3.2 Gen 2 Type-A® and Type-C®"
+        },
+        {
+            "name": "PRIME H410M-E/CSM",
+            "description": "Intel® H410 (LGA 1200) mic-ATX motherboard with M.2 support, DDR4 2933MHz, HDMI, D-Sub, USB 3.2 Gen 1 ports, SATA 6 Gbps, COM header"
+        },
+        {
+            "name": "PRIME H410M-A/CSM",
+            "description": "Intel® H410 (LGA 1200) mic-ATX motherboard with M.2 support, DDR4 2933MHz, HDMI, D-Sub, DVI, USB 3.2 Gen 1 ports, SATA 6 Gbps, COM header, TPM header"
+        },
+        {
+            "name": "PRIME H410M-D/CSM",
+            "description": "Intel® H410 (LGA 1200) mic-ATX motherboard with M.2 support, DDR4 2933MHz, HDMI, D-Sub, USB 3.2 Gen 1 ports, SATA 6 Gbps, COM port, LPT header"
+        },
+        {
+            "name": "PRIME B460M-K/CSM",
+            "description": "Intel® B460 (LGA 1200) mATX motherboard with DDR4 2933MHz, D-sub, DVI, USB 3.2 Gen 1 ports, Intel® Optane memory ready, SATA 6 Gbps"
+        },
+        {
+            "name": "Pro WS W480-ACE",
+            "description": "Intel ATX workstation motherboard LGA 1200 for Intel Xeon W-series processors with DDR4-2933 ECC memory, ASUS Control Center Express, Dual LAN, RTL8117, Dual Type-C Thunderbolt 3 ports, Dual M.2 and USB 3.2"
+        },
+        {
+            "name": "WS X299 SAGE/10G",
+            "description": "Intel LGA 2066 CEB motherboard with quad-GPU support, DDR4 4200MHz, Dual Intel® 10G LANs, M.2, U.2, USB 3.1 Gen 2 connectors, and ASUS Control Center"
+        },
+        {
+            "name": "WS C246M PRO",
+            "description": "Compact, rack-optimized Intel® LGA1151 micro-ATX motherboard with M.2, USB 3.1 Gen2 connectors and dual Gigabit LAN"
+        },
+        {
+            "name": "WS C246 PRO",
+            "description": "Intel® LGA1151 ATX motherboard with four PCIe 3.0 x16 slots, dual M.2 and USB 3.1 Gen2 connectors"
+        },
+        {
+            "name": "WS C621E SAGE",
+            "description": "쿼드 그래픽 지원 및 12 DDR4 메모리 슬롯이있는 인텔 ® C621 마더 보드"
+        },
+        {
+            "name": "WS X299 PRO",
+            "description": "DDR4 4133MHz, 듀얼 M.2 및 M.2 방열판, U.2 및 USB 3.1 Gen 2 커넥터가있는 Intel LGA 2066 ATX 메인보드"
+        },
+        {
+            "name": "WS X299 PRO/SE",
+            "description": "DDR4 4133MHz, 듀얼 M.2 및 M.2 방열판, U.2, USB 3.1 Gen 2 커넥터, ASMB9-iKVM 및 ASUS 제어 센터가있는 Intel LGA 2066 ATX 마더 보드."
+        },
+        {
+            "name": "WS X299 SAGE",
+            "description": "쿼드 GPU를 지원하는 Intel LGA 2066 CEB 마더 보드, DDR4 4200MHz, 듀얼 M.2 & U.2, USB 3.1 Gen 2 커넥터 및 ASUS Control Center"
+        },
+        {
+            "name": "H81M-K",
+            "description": "직관적인 UEFI BIOS, 탁월한 통합 그래픽 성능 및 독특한 USB 3.0 성능을 지원하는 Micro-ATX H81"
+        }
+    ]
+}

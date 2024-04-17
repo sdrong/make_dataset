@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "name": "PRIME B650-PLUS-CSM",
+            "description": "ASUS PRIME B650-PLUS-CSM AMD B650 (Ryzen AM5) ATX motherboard with DDR5, PCIe 5.0 M.2 support, Realtek 2.5Gb Ethernet, DisplayPort, HDMI®, SATA 6 Gbps, USB 3.2 Gen 2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, USB4® Support and Arua Sync."
+        },
+        {
+            "name": "PRIME B650M-A WIFI-CSM",
+            "description": "ASUS PRIME B650M-A WIFI-CSM AMD B650 (Ryzen AM5) micro ATX motherboard, DDR5 support, two M.2 slots, 2.5 Gb LAN, Wi-Fi 6, DisplayPort/HDMI®/VGA , USB 3.2 Gen 2 ports, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, Arua Sync"
+        },
+        {
+            "name": "PRIME X670E-PRO WIFI-CSM",
+            "description": "AMD X670E (Ryzen AM5) ATX motherboard with PCIe® 5.0, four M.2 slots, 14+2 Teamed Power Stages, DDR5, HDMI®, DisplayPort™, 2.5 Gb Ethernet, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 2 Type-C, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X670-P-CSM",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, V-M.2 slot (Key E), USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME X670-P WIFI-CSM",
+            "description": "AMD X670 (Ryzen AM5) ATX motherboard with PCIe 5.0 storage support, three M.2 slots, 12+2 DrMOS, DDR5, HDMI®, DisplayPort, 2.5Gb Ethernet, WiFi 6, USB 3.2 Gen 2x2 Type-C®, front USB 3.2 Gen 1 Type-C®, BIOS FlashBack™, SATA 6 Gbps, USB4® support and Aura Sync RGB lighting"
+        },
+        {
+            "name": "Pro B550M-C/CSM",
+            "description": "AMD B550 (Ryzen AM4) micro ATX business motherboard with enhanced security, reliability and manageability. Dual M.2, PCIe 4.0, 1 Gb Ethernet, dual DP/HDMI, SATA 6 Gbps, USB 3.2 Gen 2 Type-C®."
+        },
+        {
+            "name": "PRIME B450M-A II/CSM",
+            "description": "AMD B450 (Ryzen AM4) micro ATX motherboard with M.2 support, HDMI/DVI-D/D-Sub, SATA 6 Gbps, 1 Gb Ethernet, USB 3.2 Gen 2 Type-A, BIOS FlashBack™, and Aura Sync RGB lighting support"
+        },
+        {
+            "name": "PRIME A520M-A/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME A520M-E/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/DVI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME A520M-K/CSM",
+            "description": "AMD A520 (Ryzen AM4) micro ATX motherboard with M.2 support, 1 Gb Ethernet, HDMI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A"
+        },
+        {
+            "name": "PRIME B550M-K/CSM",
+            "description": "AMD B550 (Ryzen AM4) micro ATX motherboard with dual M.2, PCIe 4.0, 1 Gb Ethernet, HDMI/D-Sub/DVI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A"
+        },
+        {
+            "name": "PRIME B550M-A/CSM",
+            "description": "AMD B550 (Ryzen AM4) micro ATX motherboard with dual M.2, PCIe 4.0, 1 Gb Ethernet, HDMI/D-Sub/DVI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A, and Aura Sync RGB headers support"
+        },
+        {
+            "name": "PRIME B550M-A (WI-FI)/CSM",
+            "description": "AMD B550 (Ryzen AM4) micro ATX motherboard with dual M.2, PCIe 4.0, Intel® WiFi 6, 1 Gb Ethernet, HDMI/D-Sub/DVI, SATA 6 Gbps, USB 3.2 Gen 2 Type-A, and Aura Sync RGB headers support"
+        },
+        {
+            "name": "PRIME X570-P/CSM",
+            "description": "AMD AM4 ATX 메인보드 : PCIe 4.0, DrMOS 기반 12페이즈 전원부, DDR 4400MHz, Dual M.2, HDMI, SATA 6Gb/s, 전면 USB 3.2 Gen 2, Aura Sync RGB Lighting"
+        },
+        {
+            "name": "PRIME X570-PRO/CSM",
+            "description": "AMD AM4 ATX motherboard with PCIe 4.0, 14 DrMOS power stages, dual M.2, HDMI, SATA 6Gb/s, USB 3.2 Gen 2 front-panel connector and Aura Sync RGB lighting"
+        },
+        {
+            "name": "PRIME B450M-A/CSM",
+            "description": "AMD AM4 mATX motherboard with Aura Sync RGB header, DDR4 4400MHz, M.2, HDMI 2.0b, SATA 6Gbps and USB 3.1 Gen 2"
+        }
+    ]
+}
