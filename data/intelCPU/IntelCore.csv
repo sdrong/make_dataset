@@ -1,0 +1,52 @@
+인텔® 제품 사양 비교,,,,
+2024/04/05 01:35:12,,,,
+ ,Intel® Core™ 3 processor 100U,Intel® Core™ 7 processor 150U,Intel® Core™ 5 processor 120U,Intel® Core™ 3 processor 100U
+주요 정보,,,,
+제품 콜렉션,Intel® Core™ processors (Series 1),Intel® Core™ processors (Series 1),Intel® Core™ processors (Series 1),Intel® Core™ processors (Series 1)
+수직 분야,Mobile,Mobile,Mobile,Mobile
+프로세서 번호,100U,150U,120U,100U
+리소그래피,Intel 7,Intel 7,Intel 7,Intel 7
+고객 권장가격,,,$340.00,
+,,,,
+CPU 사양,,,,
+코어 수,6,10,10,6
+Performance-core의 수,2,2,2,2
+Efficient-core의 수,4,8,8,4
+총 스레드 수,8,12,12,8
+최대 터보 주파수,4.7 GHz,5.4 GHz,5 GHz,4.7 GHz
+Performance-core 최대 터보 주파수,4.7 GHz,5.4 GHz,5 GHz,4.7 GHz
+Efficient-core 최대 터보 주파수,3.3 GHz,4 GHz,3.8 GHz,3.3 GHz
+Performance-core 기본 주파수,1.2 GHz,1.8 GHz,1.4 GHz,1.2 GHz
+Efficient-core 기본 주파수,900 MHz,1.2 GHz,900 MHz,900 MHz
+캐시,10 MB Intel® Smart Cache,12 MB Intel® Smart Cache,12 MB Intel® Smart Cache,10 MB Intel® Smart Cache
+프로세서 기반 성능,15 W,15 W,15 W,15 W
+최대 터보 성능,55 W,55 W,55 W,55 W
+최소 보장 성능,12 W,12 W,12 W,12 W
+인텔® 딥 러닝 부스트,Yes,Yes,Yes,Yes
+,,,,
+보조 정보,,,,
+상태,Launched,Launched,Launched,Launched
+출시일,Q1'24,Q1'24,Q1'24,Q1'24
+사용 가능한 임베디드 옵션,No,No,No,No
+,,,,
+메모리 사양,,,,
+최대 메모리 크기(메모리 유형에 따라 다름),96 GB,96 GB,96 GB,96 GB
+메모리 유형,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 5200 MT/s Up to LPDDR4x 4267 MT/s,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 6400 MT/s Up to LPDDR4x 4267 MT/s,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 6400 MT/s Up to LPDDR4x 4267 MT/s,Up to DDR5 5200 MT/s Up to DDR4 3200 MT/s Up to LPDDR5/x 5200 MT/s Up to LPDDR4x 4267 MT/s
+최대 메모리 채널 수,2,2,2,2
+ECC 메모리 지원 ‡,No,No,No,No
+,,,,
+GPU Specifications,,,,
+GPU 이름 ‡,Intel® Graphics,Intel® Graphics,Intel® Graphics,Intel® Graphics
+그래픽 최대 동적 주파수,1.25 GHz,1.3 GHz,1.25 GHz,1.25 GHz
+그래픽 출력,eDP 1.4b |  DP 1.4a |  HDMI 2.1,eDP 1.4b |  DP 1.4a |  HDMI 2.1,eDP 1.4b |  DP 1.4a |  HDMI 2.1,eDP 1.4b |  DP 1.4a |  HDMI 2.1
+Execution Unit,64,96,80,64
+최대 해상도(HDMI)‡,4096 x 2304 @ 60Hz,4096 x 2304 @ 60Hz,4096 x 2304 @ 60Hz,4096 x 2304 @ 60Hz
+최대 해상도(DP)‡,7680 x 4320 @ 60Hz,7680 x 4320 @ 60Hz,7680 x 4320 @ 60Hz,7680 x 4320 @ 60Hz
+최대 해상도(eDP - 통합 평판),4096 x 2304 @ 120Hz,4096 x 2304 @ 120Hz,4096 x 2304 @ 120Hz,4096 x 2304 @ 120Hz
+DirectX* 지원,12.1,12.1,12.1,12.1
+OpenGL* 지원,4.6,4.6,4.6,4.6
+OpenCL* 지원,3.0,3.0,3.0,3.0
+멀티포맷 코덱 엔진,1,2,2,1
+인텔® 퀵 싱크 비디오,Yes,Yes,Yes,Yes
+지원되는 디스플레이 수 ‡,4,4,4,4
+장치 ID,0xA7AD,0xA7AC,0xA7AC,0xA7AD
